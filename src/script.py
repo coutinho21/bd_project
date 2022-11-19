@@ -1,29 +1,52 @@
-##Imports necessários para raspar os dados da página
-import requests
-from bs4 import BeautifulSoup
-##Import necessário para criação dos dataframes para análise
-import pandas as pd
-##Import necessário para criar o Profiling
-import pandas_profiling as pp
-from pandas_profiling import ProfileReport
-##Import necessário para criação de gráficos
-import matplotlib.pyplot as plt
-##Import necessário para trabalhar com data e hora.
-import datetime as dtm
-from datetime import date as dt
-##Import necessário para tratar acentuação
-from unicodedata import normalize as nm
+# script to remove unwanted stuff from a certain file that has been scraped from
+# the web and put in a csv file
 
-mainLink = "https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2022"
-gamesList = []
-goalsList = []
-
-for gn in range(1,381):
-    currLink = mainLink + '/' + str(gn)
-    req = requests.get(currLink)
-    soup = BeautifulSoup(req.content, 'html.parser')
+def cleanFile(readFile, writeFile, integers):
+    read = open(readFile, 'r')
+    write = open(writeFile, 'w')
+    lines = read.readlines()
     
-    gameNumber = soup.find(class_="color-white block text-1")
-    print(gameNumber)
+    for line in lines:
+        count = 0
+        i = 0
+        withoutLinks = ""
+        # remove first 2 links that we dont need
+        while(count < 2):
+            if line[i] == ',':
+                count += 1
+            i += 1
+        withoutLinks = line[i:]
 
+        # step ahead first line 
+        if lines.index(line) == 0:
+            fields = withoutLinks.split(',')
+            fields = fields[:1] + [fields[len(fields)-1][:len(fields[len(fields)-1])-1]] + fields[1:len(fields)-1]
+            withoutLinks = ','.join(fields)
+            withoutLinks += '\n'
+            write.write(withoutLinks)
+            continue
+        
+        count = 0
+        # it is necessary to change the indexes of the fields that are integers 
+        # from each file that is going to be cleaned
+        fields = withoutLinks.split(',')
+        outString = ""
+        for i in range(len(fields)):
+            if i in integers:
+                #remove "" from integer fields
+                fields[i] = fields[i][1:len(fields[i])-1]
+        
+        # remove last " in line
+        fields[len(fields)-1] = fields[len(fields)-1][:len(fields[len(fields)-1])-1]
+        #put classificacao in right place
+        fields = fields[:1] + [fields[len(fields)-1]] + fields[1:len(fields)-1]
+        # rejoin fields in a string
+        outString = ','.join(fields)
+        # add a newline
+        outString += '\n'
+        # write out to the file
+        write.write(outString)
+
+
+cleanFile("equipas.csv","EQUIPA.csv",[1,2,3,4,6])
 
