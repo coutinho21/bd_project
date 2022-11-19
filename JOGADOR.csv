@@ -1,0 +1,1018 @@
+idJogador,nome,idade,numero,posicao,idEquipa
+1,"Pegorari","31 anos",1,"Guarda Redes",20
+2,"William","24 anos",21,"Guarda Redes",20
+3,"César","27 anos",31,"Guarda Redes",20
+4,"Arthur","20 anos",43,"Guarda Redes",20
+5,"Felipe Alves","34 anos",1,"Guarda Redes",20
+6,"Rodrigo Soares","29 anos",2,"Defesa",20
+7,"Nicolas","19 anos",26,"Defesa",20
+8,"Paulo Henrique","26 anos",96,"Defesa",20
+9,"Renato Chaves","32 anos",3,"Defesa",20
+10,"Thalisson","24 anos",4,"Defesa",20
+11,"Rafael Forster","32 anos",12,"Defesa",20
+12,"Lucas Ramires","20 anos",25,"Defesa",20
+13,"Paulo Miranda","34 anos",28,"Defesa",20
+14,"Vitor Mendes","23 anos",34,"Defesa",20
+15,"Ygor Nogueira","27 anos",44,"Defesa",20
+16,"Danilo Boza","24 anos",3,"Defesa",20
+17,"William Matheus","32 anos",6,"Defesa",20
+18,"Cauê","17 anos",13,"Defesa",20
+19,"Moraes","25 anos",20,"Defesa",20
+20,"Dudu","20 anos",36,"Defesa",20
+21,"Jeder","20 anos",27,"Defesa",20
+22,"Odivan","23 anos",34,"Defesa",20
+23,"Busanello","24 anos",90,"Defesa",20
+24,"Rafinha","20 anos",30,"Médio",20
+25,"Jean Irmer","28 anos",5,"Médio",20
+26,"Kelvi","20 anos",15,"Médio",20
+27,"Jádson","29 anos",16,"Médio",20
+28,"Elton","32 anos",17,"Médio",20
+29,"Pará","20 anos",26,"Médio",20
+30,"Rômulo","22 anos",32,"Médio",20
+31,"Anderson Leite","29 anos",33,"Médio",20
+32,"Guilherme Gehring","17 anos",35,"Médio",20
+33,"Yuri","28 anos",50,"Médio",20
+34,"Bruno Nazário","27 anos",22,"Médio",20
+35,"Chico Kim","31 anos",23,"Médio",20
+36,"Marlon","32 anos",25,"Médio",20
+37,"Gabriel Tota","21 anos",88,"Médio",20
+38,"Óscar Ruiz","31 anos",11,"Médio",20
+39,"Ricardinho","33 anos",5,"Médio",20
+40,"Bruninho","22 anos",13,"Médio",20
+41,"Rodrigo Bassani","25 anos",33,"Médio",20
+42,"Darlan Mendes","24 anos",8,"Médio",20
+43,"Weliton","17 anos",27,"Avançado",20
+44,"Ruan","17 anos",29,"Avançado",20
+45,"Felipe Pires","27 anos",19,"Avançado",20
+46,"Edinho","28 anos",58,"Avançado",20
+47,"Guilherme Parede","27 anos",77,"Avançado",20
+48,"Ricardo Bueno","35 anos",9,"Avançado",20
+49,"Vitor Gabriel","22 anos",63,"Avançado",20
+50,"Isidro Pitta","23 anos",80,"Avançado",20
+51,"Capixaba","25 anos",7,"Avançado",20
+52,"Hélio Borges","22 anos",35,"Avançado",20
+53,"Paulinho Moccelin","28 anos",94,"Avançado",20
+54,"Vitor Leque","21 anos",99,"Avançado",20
+55,"Mauro Zárate","35 anos",10,"Avançado",20
+56,"Cláudio Vitor","22 anos",23,"Guarda Redes",19
+57,"Glédson","39 anos",83,"Guarda Redes",19
+58,"Vladimir","33 anos",89,"Guarda Redes",19
+59,"Igor Bohn","26 anos",96,"Guarda Redes",19
+60,"Douglas","33 anos",1,"Guarda Redes",19
+61,"Kevin","25 anos",13,"Defesa",19
+62,"Igor Dutra","21 anos",29,"Defesa",19
+63,"Thales Oleques","28 anos",72,"Defesa",19
+64,"Matheus Ribeiro","29 anos",2,"Defesa",19
+65,"Rafael Vaz","34 anos",4,"Defesa",19
+66,"Raniele","25 anos",14,"Defesa",19
+67,"Wellington Nascimento","27 anos",15,"Defesa",19
+68,"Bressan","29 anos",26,"Defesa",19
+69,"Rodrigo Freitas","24 anos",32,"Defesa",19
+70,"Felipe Silva","20 anos",35,"Defesa",19
+71,"Raphael Rodrigues","23 anos",44,"Defesa",19
+72,"Diego Matos","25 anos",6,"Defesa",19
+73,"Natanael","31 anos",25,"Defesa",19
+74,"Bruno Cortez","35 anos",33,"Defesa",19
+75,"Betão","39 anos",3,"Defesa",19
+76,"Alemão","32 anos",4,"Defesa",19
+77,"Arthur Chaves","21 anos",31,"Defesa",19
+78,"Felipe Camargo","23 anos",43,"Defesa",19
+79,"Ayrton Cougo","26 anos",15,"Defesa",19
+80,"Leocovick","23 anos",37,"Defesa",19
+81,"Lucas Ventura","24 anos",5,"Médio",19
+82,"Eduardo","25 anos",22,"Médio",19
+83,"Andrey","20 anos",40,"Médio",19
+84,"Mateus Sarará","20 anos",48,"Médio",19
+85,"Gabriel Kazu","23 anos",55,"Médio",19
+86,"Matheus Galdezani","30 anos",92,"Médio",19
+87,"Vitinho","21 anos",87,"Médio",19
+88,"Bruno Silva","36 anos",8,"Médio",19
+89,"Jean Cléber","32 anos",16,"Médio",19
+90,"Jean Pyerre","24 anos",21,"Médio",19
+91,"Marcos Serrato","28 anos",19,"Médio",19
+92,"Macaé","21 anos",25,"Médio",19
+93,"Lourenço","25 anos",97,"Médio",19
+94,"Muriqui","36 anos",11,"Avançado",19
+95,"Gustavo Santos","20 anos",28,"Avançado",19
+96,"Felipinho","20 anos",38,"Avançado",19
+97,"Gaspar","20 anos",39,"Avançado",19
+98,"Jô","23 anos",32,"Avançado",19
+99,"Renato","32 anos",7,"Avançado",19
+100,"Marcinho","27 anos",19,"Avançado",19
+101,"Pablo Dyego","28 anos",27,"Avançado",19
+102,"William Pottker","28 anos",90,"Avançado",19
+103,"Lucas Silva","24 anos",98,"Avançado",19
+104,"Nathan","23 anos",18,"Avançado",19
+105,"Guilherme Bissoli","24 anos",77,"Avançado",19
+106,"Paolo Guerrero","38 anos",99,"Avançado",19
+107,"Rômulo","27 anos",9,"Avançado",19
+108,"Dentinho","25 anos",97,"Avançado",19
+109,"Vinícius Leite","29 anos",17,"Avançado",19
+110,"Morato","30 anos",53,"Avançado",19
+111,"Quirino","29 anos",18,"Avançado",19
+112,"Matheus Lucas","24 anos",21,"Avançado",19
+113,"Vinícius Jaú","24 anos",30,"Avançado",19
+114,"Adiel","20 anos",39,"Avançado",19
+115,"Jonathan Copete","34 anos",10,"Avançado",19
+116,"Paulo Baya","23 anos",20,"Avançado",19
+117,"Gustavo Poffo","24 anos",38,"Avançado",19
+118,"Ronaldo","26 anos",1,"Guarda Redes",18
+119,"Diego Loureiro","24 anos",12,"Guarda Redes",18
+120,"Renan","33 anos",12,"Guarda Redes",18
+121,"Léo","20 anos",24,"Guarda Redes",18
+122,"Klaus","28 anos",14,"Defesa",18
+123,"Dudu","25 anos",2,"Defesa",18
+124,"Hayner","27 anos",13,"Defesa",18
+125,"Wanderson","31 anos",3,"Defesa",18
+126,"Lucas Gazal","23 anos",13,"Defesa",18
+127,"Michel","21 anos",17,"Defesa",18
+128,"Arthur Henrique","28 anos",6,"Defesa",18
+129,"Jefferson","25 anos",16,"Defesa",18
+130,"Jorginho","31 anos",10,"Médio",18
+131,"Baralhas","24 anos",5,"Médio",18
+132,"Willian Maranhão","26 anos",7,"Médio",18
+133,"Rhaldney","23 anos",14,"Médio",18
+134,"Edson Fernando","24 anos",33,"Médio",18
+135,"Shaylon","25 anos",10,"Médio",18
+136,"Marlon Freitas","27 anos",8,"Médio",18
+137,"Wellington Rato","30 anos",20,"Médio",18
+138,"Léo Pereira","22 anos",11,"Avançado",18
+139,"Ricardinho","21 anos",21,"Avançado",18
+140,"João Peglow","20 anos",28,"Avançado",18
+141,"Airton","23 anos",30,"Avançado",18
+142,"Diego Churín","32 anos",9,"Avançado",18
+143,"Luiz Fernando","26 anos",18,"Avançado",18
+144,"João Ricardo","34 anos",1,"Guarda Redes",17
+145,"Vinícius Machado","22 anos",50,"Guarda Redes",17
+146,"André Luiz","22 anos",67,"Guarda Redes",17
+147,"Richard","31 anos",91,"Guarda Redes",17
+148,"Nino Paraíba","36 anos",2,"Defesa",17
+149,"Buiú","26 anos",27,"Defesa",17
+150,"Atila","20 anos",77,"Defesa",17
+151,"Michel Macedo","32 anos",88,"Defesa",17
+152,"Messias","28 anos",3,"Defesa",17
+153,"Luiz Otávio","34 anos",13,"Defesa",17
+154,"Lucas Ribeiro","23 anos",14,"Defesa",17
+155,"Gabriel Lacerda","23 anos",15,"Defesa",17
+156,"David Ricardo","19 anos",23,"Defesa",17
+157,"Marcos Victor","20 anos",44,"Defesa",17
+158,"Bruno Pacheco","30 anos",6,"Defesa",17
+159,"Victor Luís","29 anos",33,"Defesa",17
+160,"Kelvyn","23 anos",70,"Defesa",17
+161,"Caio Rafael","18 anos",32,"Médio",17
+162,"Da Guia","19 anos",54,"Médio",17
+163,"Léo Rafael","21 anos",80,"Médio",17
+164,"Wendell","19 anos",5,"Médio",17
+165,"Richardson","31 anos",7,"Médio",17
+166,"Geovane","23 anos",21,"Médio",17
+167,"Rodrigo Lindoso","33 anos",23,"Médio",17
+168,"Richard","28 anos",25,"Médio",17
+169,"Rubens","20 anos",92,"Médio",17
+170,"Fernando Sobral","27 anos",8,"Médio",17
+171,"Guthierres","21 anos",18,"Médio",17
+172,"Vina","31 anos",29,"Médio",17
+173,"Diego Rigonato","34 anos",37,"Médio",17
+174,"David","18 anos",37,"Médio",17
+175,"Guilherme Castilho","23 anos",40,"Médio",17
+176,"Lima","26 anos",45,"Médio",17
+177,"Marlon","32 anos",19,"Médio",17
+178,"Wescley","31 anos",20,"Médio",17
+179,"Matheus Índio","21 anos",47,"Médio",17
+180,"Jhon Vásquez","27 anos",20,"Avançado",17
+181,"Daniel Henrique","18 anos",35,"Avançado",17
+182,"Pedro Igor","20 anos",82,"Avançado",17
+183,"Iury Castilho","27 anos",99,"Avançado",17
+184,"Erick","24 anos",11,"Avançado",17
+185,"Jael","34 anos",9,"Avançado",17
+186,"Stiven Mendoza","30 anos",10,"Avançado",17
+187,"Matheus Peixoto","27 anos",28,"Avançado",17
+188,"Zé Roberto","29 anos",63,"Avançado",17
+189,"Jô","35 anos",77,"Avançado",17
+190,"Cléber","26 anos",89,"Avançado",17
+191,"Gabriel Santos","23 anos",90,"Avançado",17
+192,"João Victor","18 anos",52,"Avançado",17
+193,"Vítor Jacaré","23 anos",40,"Avançado",17
+194,"Felipe Micael","21 anos",39,"Avançado",17
+195,"Dentinho","33 anos",31,"Avançado",17
+196,"Walter","35 anos",1,"Guarda Redes",16
+197,"Peruchi","19 anos",3,"Guarda Redes",16
+198,"Breno","19 anos",5,"Guarda Redes",16
+199,"Vinícius Barreta","23 anos",7,"Guarda Redes",16
+200,"João Carlos","34 anos",91,"Guarda Redes",16
+201,"Rhyan","16 anos",21,"Guarda Redes",16
+202,"Capellari","21 anos",32,"Guarda Redes",16
+203,"Guilherme Brandão","19 anos",55,"Defesa",16
+204,"Lucão","20 anos",35,"Defesa",16
+205,"Léo Herrero","18 anos",20,"Defesa",16
+206,"Alexandre Melo","23 anos",52,"Defesa",16
+207,"Thainan","20 anos",58,"Defesa",16
+208,"Caio Hila","22 anos",42,"Defesa",16
+209,"João Lucas","24 anos",32,"Defesa",16
+210,"Giuliedson","19 anos",50,"Defesa",16
+211,"Daniel Guedes","28 anos",45,"Defesa",16
+212,"Alan Empereur","28 anos",77,"Defesa",16
+213,"Ricardo","19 anos",88,"Defesa",16
+214,"Juan Ojeda","24 anos",99,"Defesa",16
+215,"Tiago","18 anos",44,"Defesa",16
+216,"Marllon","30 anos",22,"Defesa",16
+217,"Joaquim","23 anos",11,"Defesa",16
+218,"Sidcley","29 anos",33,"Defesa",16
+219,"Juliano","18 anos",55,"Defesa",16
+220,"Igor Cariús","29 anos",52,"Defesa",16
+221,"André","19 anos",33,"Médio",16
+222,"Lucas Cardoso","22 anos",22,"Médio",16
+223,"Matheus Henrique","18 anos",41,"Médio",16
+224,"Gabriel Falcão","21 anos",14,"Médio",16
+225,"JP","21 anos",42,"Médio",16
+226,"Anderson Ribeiro","18 anos",41,"Médio",16
+227,"Marcos Alexandre","19 anos",41,"Médio",16
+228,"Marcão","31 anos",2,"Médio",16
+229,"Denilson","21 anos",1,"Médio",16
+230,"Cristhian Rivas","25 anos",4,"Médio",16
+231,"Kelvin Osorio","29 anos",12,"Médio",16
+232,"Pepê","24 anos",42,"Médio",16
+233,"Keder","18 anos",4,"Médio",16
+234,"Kennyd","18 anos",43,"Avançado",16
+235,"Marco Antônio","19 anos",41,"Avançado",16
+236,"Gabryel Vinicius","20 anos",13,"Avançado",16
+237,"Levi","26 anos",9,"Avançado",16
+238,"Thiaguinho","22 anos",10,"Avançado",16
+239,"Fábio Nogueira","19 anos",7,"Avançado",16
+240,"André Luís","25 anos",17,"Avançado",16
+241,"Felipe Marques","32 anos",13,"Avançado",16
+242,"Jonathan Cafú","31 anos",4,"Avançado",16
+243,"Deyverson","31 anos",12,"Avançado",16
+244,"Gustavo Nescau","22 anos",3,"Avançado",16
+245,"Élton","37 anos",41,"Avançado",16
+246,"Gabriel Vasconcellos","30 anos",1,"Guarda Redes",15
+247,"Marcão","22 anos",12,"Guarda Redes",15
+248,"Rafael William","21 anos",21,"Guarda Redes",15
+249,"Alex Muralha","33 anos",23,"Guarda Redes",15
+250,"Matheus Alexandre","23 anos",2,"Defesa",15
+251,"Natanael","20 anos",16,"Defesa",15
+252,"Warley","23 anos",17,"Defesa",15
+253,"Nathan Mendes","20 anos",45,"Defesa",15
+254,"Henrique","36 anos",3,"Defesa",15
+255,"Luciano Castán","33 anos",4,"Defesa",15
+256,"Guillermo de los Santos","31 anos",5,"Defesa",15
+257,"Thalisson Gabriel","20 anos",14,"Defesa",15
+258,"Jhon Chancellor","30 anos",41,"Defesa",15
+259,"Marcio Silva","21 anos",44,"Defesa",15
+260,"Egídio","36 anos",6,"Defesa",15
+261,"Guilherme Biro","22 anos",18,"Defesa",15
+262,"Diego Porfírio","23 anos",33,"Defesa",15
+263,"Rafael Santos","24 anos",36,"Defesa",15
+264,"Angelo","21 anos",66,"Defesa",15
+265,"Kaio César","18 anos",37,"Médio",15
+266,"Andrey","24 anos",7,"Médio",15
+267,"Willian Farias","33 anos",8,"Médio",15
+268,"Maicky","21 anos",22,"Médio",15
+269,"Bernardo","20 anos",25,"Médio",15
+270,"Bruno Gomes","21 anos",32,"Médio",15
+271,"Jesús Trindade","29 anos",50,"Médio",15
+272,"Matheus Sales","27 anos",36,"Médio",15
+273,"Val","25 anos",97,"Médio",15
+274,"Thonny Anderson","24 anos",19,"Médio",15
+275,"Robinho","35 anos",20,"Médio",15
+276,"Boschilia","26 anos",35,"Médio",15
+277,"Geovane Meurer","20 anos",38,"Médio",15
+278,"Biel","20 anos",75,"Médio",15
+279,"Régis","29 anos",78,"Médio",15
+280,"Edson Carioca","25 anos",80,"Médio",15
+281,"Matías Galarza","20 anos",15,"Médio",15
+282,"Juan Díaz","21 anos",27,"Médio",15
+283,"Gustavo Bochecha","26 anos",88,"Médio",15
+284,"Matheus Cadorini","20 anos",99,"Avançado",15
+285,"Pablo García","23 anos",28,"Avançado",15
+286,"Hernán Pérez","33 anos",30,"Avançado",15
+287,"José Hugo","23 anos",88,"Avançado",15
+288,"Léo Gamalho","36 anos",9,"Avançado",15
+289,"Alef Manga","27 anos",11,"Avançado",15
+290,"Fabrício Daniel","25 anos",13,"Avançado",15
+291,"Adrián Martínez","30 anos",52,"Avançado",15
+292,"Neilton","28 anos",70,"Avançado",15
+293,"Nathan Fogaça","23 anos",17,"Avançado",15
+294,"Clayton Silva","23 anos",99,"Avançado",15
+295,"Robinho","22 anos",77,"Avançado",15
+296,"Vinícius Ribeiro","21 anos",83,"Avançado",15
+297,"Igor Paixão","22 anos",98,"Avançado",15
+298,"Júlio César","38 anos",1,"Guarda Redes",14
+299,"Maycon Cleiton","24 anos",12,"Guarda Redes",14
+300,"Cleiton","25 anos",18,"Guarda Redes",14
+301,"Fabrício","22 anos",37,"Guarda Redes",14
+302,"Lucão","21 anos",40,"Guarda Redes",14
+303,"Aderlan","32 anos",13,"Defesa",14
+304,"Andrés Hurtado","20 anos",34,"Defesa",14
+305,"Dija","19 anos",47,"Defesa",14
+306,"Léo Realpe","21 anos",2,"Defesa",14
+307,"Léo Ortiz","26 anos",3,"Defesa",14
+308,"Kevin Lomónaco","20 anos",14,"Defesa",14
+309,"Natan","21 anos",21,"Defesa",14
+310,"Halls","20 anos",38,"Defesa",14
+311,"Douglas Mendes","18 anos",44,"Defesa",14
+312,"Ramon","21 anos",6,"Defesa",14
+313,"Weverson","22 anos",26,"Defesa",14
+314,"Luan Cândido","21 anos",36,"Defesa",14
+315,"Cesar Haydar","21 anos",4,"Defesa",14
+316,"Fabrício Bruno","26 anos",14,"Defesa",14
+317,"Renan Victor","20 anos",19,"Defesa",14
+318,"Guilherme","20 anos",31,"Defesa",14
+319,"Luciano","19 anos",43,"Médio",14
+320,"Jadsom","21 anos",5,"Médio",14
+321,"Nathan","17 anos",48,"Médio",14
+322,"Gabriel Caetano","20 anos",49,"Médio",14
+323,"Lucas Evangelista","27 anos",8,"Médio",14
+324,"Hyoran","29 anos",10,"Médio",14
+325,"Miguel","19 anos",30,"Médio",14
+326,"Eric Ramires","22 anos",16,"Médio",14
+327,"Raul","26 anos",23,"Médio",14
+328,"Bruno Praxedes","20 anos",25,"Médio",14
+329,"Emiliano Martínez","23 anos",32,"Médio",14
+330,"Kawê","20 anos",39,"Avançado",14
+331,"Artur","24 anos",7,"Avançado",14
+332,"Sorriso","21 anos",27,"Avançado",14
+333,"Welliton","22 anos",33,"Avançado",14
+334,"Guilherme Santos","21 anos",46,"Avançado",14
+335,"Alerrandro","22 anos",9,"Avançado",14
+336,"Jan Hurtado","22 anos",17,"Avançado",14
+337,"Bruninho","19 anos",29,"Avançado",14
+338,"Gabriel Novaes","23 anos",35,"Avançado",14
+339,"Werik Popó","21 anos",45,"Avançado",14
+340,"Ytalo","34 anos",15,"Avançado",14
+341,"Helinho","22 anos",11,"Avançado",14
+342,"Carlos Eduardo","26 anos",28,"Avançado",14
+343,"Bruno Tubarão","27 anos",20,"Avançado",14
+344,"Leandrinho","24 anos",22,"Avançado",14
+345,"Matheus Alves","27 anos",31,"Guarda Redes",13
+346,"Luis Felype","21 anos",44,"Guarda Redes",13
+347,"José Catula","18 anos",32,"Guarda Redes",13
+348,"Márcio Vitor","22 anos",88,"Guarda Redes",13
+349,"Marcelo Rangel","34 anos",13,"Guarda Redes",13
+350,"Luis Miguel","19 anos",99,"Defesa",13
+351,"Xavier","18 anos",41,"Defesa",13
+352,"Kauã Moura","18 anos",5,"Defesa",13
+353,"Guilherme","18 anos",13,"Defesa",13
+354,"Gabriel Ruggeri","21 anos",66,"Defesa",13
+355,"Daniel Ghiggino","19 anos",23,"Defesa",13
+356,"Mina","19 anos",51,"Defesa",13
+357,"Thierry","17 anos",34,"Defesa",13
+358,"Iago Mendonça","23 anos",53,"Defesa",13
+359,"Maguinho","30 anos",52,"Defesa",13
+360,"Douglas Pelé","23 anos",76,"Defesa",13
+361,"Yan Souto","21 anos",12,"Defesa",13
+362,"Caetano","23 anos",10,"Defesa",13
+363,"Danilo Cardoso","25 anos",11,"Defesa",13
+364,"Lucas Halter","22 anos",44,"Defesa",13
+365,"Reynaldo","25 anos",34,"Defesa",13
+366,"Da Silva","21 anos",55,"Defesa",13
+367,"Juan","20 anos",22,"Defesa",13
+368,"Hugo","25 anos",53,"Defesa",13
+369,"Sidnei","33 anos",33,"Defesa",13
+370,"Éverson","25 anos",21,"Defesa",13
+371,"Alan Stence","20 anos",24,"Médio",13
+372,"Kauan","17 anos",24,"Médio",13
+373,"Guilherme Dourado","18 anos",74,"Médio",13
+374,"Pablo","19 anos",34,"Médio",13
+375,"Danilo Batista","20 anos",37,"Médio",13
+376,"Andrey","19 anos",75,"Médio",13
+377,"Lincon","20 anos",43,"Médio",13
+378,"Léo Sena","26 anos",42,"Médio",13
+379,"Daniel","23 anos",64,"Médio",13
+380,"Índio","21 anos",53,"Médio",13
+381,"Miguel Figueira","22 anos",23,"Médio",13
+382,"Élvis","32 anos",54,"Médio",13
+383,"Albano","25 anos",52,"Médio",13
+384,"Matheus Sales","27 anos",52,"Médio",13
+385,"Caio Vinícius","23 anos",64,"Médio",13
+386,"Henrique Lordelo","22 anos",73,"Médio",13
+387,"Auremir","31 anos",27,"Médio",13
+388,"Nathan","21 anos",23,"Médio",13
+389,"Diego","27 anos",42,"Médio",13
+390,"Marquinhos Gabriel","32 anos",9,"Médio",13
+391,"Marco Antônio","22 anos",42,"Médio",13
+392,"Luan Dias","25 anos",21,"Médio",13
+393,"Matheusinho","24 anos",32,"Médio",13
+394,"Fellipe Bastos","32 anos",2,"Médio",13
+395,"Pedro Bahia","20 anos",54,"Avançado",13
+396,"Pedrinho","18 anos",35,"Avançado",13
+397,"Wendell","18 anos",48,"Avançado",13
+398,"Vitor Hugo","18 anos",87,"Avançado",13
+399,"Ivo Jesus","18 anos",86,"Avançado",13
+400,"Válber Júnior","19 anos",57,"Avançado",13
+401,"Reginaldo","19 anos",7,"Avançado",13
+402,"Dadá Belmonte","25 anos",46,"Avançado",13
+403,"Luiz Filipe","21 anos",6,"Avançado",13
+404,"Breno Herculano","23 anos",35,"Avançado",13
+405,"Lucas Emmanuel","22 anos",2,"Avançado",13
+406,"Renato Júnior","20 anos",1,"Avançado",13
+407,"Pedro Raúl","26 anos",56,"Avançado",13
+408,"Vinícius","29 anos",5,"Avançado",13
+409,"Luan","32 anos",42,"Avançado",13
+410,"John","26 anos",22,"Guarda Redes",12
+411,"João Paulo","27 anos",34,"Guarda Redes",12
+412,"Paulo Mazoti","22 anos",50,"Guarda Redes",12
+413,"Diógenes","21 anos",52,"Guarda Redes",12
+414,"Madson","30 anos",13,"Defesa",12
+415,"Nathan Santos","21 anos",16,"Defesa",12
+416,"Auro","26 anos",27,"Defesa",12
+417,"Jair Paula","17 anos",28,"Defesa",12
+418,"Luiz Felipe","29 anos",2,"Defesa",12
+419,"Eduardo Bauermann","26 anos",4,"Defesa",12
+420,"Leonardo Zabala","19 anos",26,"Defesa",12
+421,"Alex Nascimento","23 anos",31,"Defesa",12
+422,"Derick","20 anos",32,"Defesa",12
+423,"Maicon","34 anos",33,"Defesa",12
+424,"Felipe Jonatan","24 anos",3,"Defesa",12
+425,"Kevyson","18 anos",38,"Defesa",12
+426,"Lucas Pires","21 anos",44,"Defesa",12
+427,"Robson Reis","22 anos",26,"Defesa",12
+428,"Kaiky","18 anos",28,"Defesa",12
+429,"Emiliano Velázquez","28 anos",61,"Defesa",12
+430,"Vinicius Balieiro","23 anos",17,"Médio",12
+431,"Jobson","27 anos",8,"Médio",12
+432,"Gabriel Carabajal","30 anos",5,"Médio",12
+433,"Carlos Sánchez","37 anos",7,"Médio",12
+434,"Jhojan Julio","24 anos",8,"Médio",12
+435,"Luan","29 anos",20,"Médio",12
+436,"Lucas Barbosa","21 anos",21,"Médio",12
+437,"Ed Carlos","21 anos",37,"Médio",12
+438,"Bruno Oliveira","24 anos",40,"Médio",12
+439,"Sandry","20 anos",6,"Médio",12
+440,"Rodrigo Fernández","26 anos",14,"Médio",12
+441,"Ivonei","20 anos",15,"Médio",12
+442,"Vinícius Zanocelo","21 anos",25,"Médio",12
+443,"Camacho","32 anos",29,"Médio",12
+444,"Willian Maranhão","26 anos",5,"Médio",12
+445,"Gabriel Pirani","20 anos",20,"Médio",12
+446,"Ângelo","17 anos",11,"Avançado",12
+447,"Tailson","23 anos",39,"Avançado",12
+448,"Miguelito","18 anos",47,"Avançado",12
+449,"Marcos Leonardo","19 anos",9,"Avançado",12
+450,"Rwan","21 anos",12,"Avançado",12
+451,"Brayan Angulo","26 anos",15,"Avançado",12
+452,"Ricardo Goulart","31 anos",10,"Avançado",12
+453,"Yeferson Soteldo","25 anos",10,"Avançado",12
+454,"Lucas Braga","26 anos",30,"Avançado",12
+455,"Weslley Patati","19 anos",36,"Avançado",12
+456,"Léo Baptistão","30 anos",92,"Avançado",12
+457,"Marcos Guilherme","27 anos",23,"Avançado",12
+458,"Allanzinho","22 anos",49,"Avançado",12
+459,"Gatito Fernández","34 anos",1,"Guarda Redes",11
+460,"Lucas Perri","24 anos",12,"Guarda Redes",11
+461,"Douglas Borges","32 anos",22,"Guarda Redes",11
+462,"Igo Gabriel","21 anos",52,"Guarda Redes",11
+463,"Diego Loureiro","24 anos",12,"Guarda Redes",11
+464,"DG","21 anos",36,"Defesa",11
+465,"Renzo Saravia","29 anos",2,"Defesa",11
+466,"Rafael","32 anos",7,"Defesa",11
+467,"Daniel Borges","29 anos",20,"Defesa",11
+468,"Vitor Marinho","21 anos",48,"Defesa",11
+469,"Joel Carli","36 anos",3,"Defesa",11
+470,"Kanu","25 anos",4,"Defesa",11
+471,"Víctor Cuesta","34 anos",15,"Defesa",11
+472,"Adryelson","24 anos",34,"Defesa",11
+473,"Lucas Mezenga","21 anos",40,"Defesa",11
+474,"Philipe Sampaio","28 anos",94,"Defesa",11
+475,"Reydson","20 anos",33,"Defesa",11
+476,"Kawan","19 anos",38,"Defesa",11
+477,"Ewerton","21 anos",43,"Defesa",11
+478,"Hugo Neto","21 anos",16,"Defesa",11
+479,"Marçal","33 anos",21,"Defesa",11
+480,"Carlinhos","35 anos",30,"Defesa",11
+481,"Jefinho","20 anos",55,"Defesa",11
+482,"Klaus","28 anos",44,"Defesa",11
+483,"Jonathan","24 anos",6,"Defesa",11
+484,"Niko Hämäläinen","25 anos",19,"Defesa",11
+485,"Danilo Barbosa","26 anos",5,"Médio",11
+486,"Tchê Tchê","30 anos",6,"Médio",11
+487,"Patrick de Paula","23 anos",8,"Médio",11
+488,"Breno","22 anos",35,"Médio",11
+489,"Lucas Fernandes","25 anos",18,"Médio",11
+490,"Eduardo","33 anos",33,"Médio",11
+491,"Lucas Piazón","28 anos",43,"Médio",11
+492,"Chay","32 anos",14,"Médio",11
+493,"Felipe Ferreira","28 anos",17,"Médio",11
+494,"Raí","20 anos",75,"Médio",11
+495,"Gabriel Pires","29 anos",14,"Médio",11
+496,"Del Piage","22 anos",23,"Médio",11
+497,"Jacob Montes","24 anos",32,"Médio",11
+498,"Kayque","22 anos",62,"Médio",11
+499,"Gustavo Barreto","26 anos",5,"Médio",11
+500,"Luís Oyama","25 anos",55,"Médio",11
+501,"Juninho","21 anos",80,"Médio",11
+502,"Fabinho","36 anos",15,"Médio",11
+503,"Júnior Santos","28 anos",37,"Avançado",11
+504,"Jeffinho","22 anos",47,"Avançado",11
+505,"João Victor","20 anos",29,"Avançado",11
+506,"Jhonnata","18 anos",45,"Avançado",11
+507,"Gustavo Sauer","29 anos",10,"Avançado",11
+508,"Vitinho","21 anos",21,"Avançado",11
+509,"Ronald","25 anos",31,"Avançado",11
+510,"Tiquinho Soares","31 anos",9,"Avançado",11
+511,"Daniel Cruz","21 anos",39,"Avançado",11
+512,"Matheus Nascimento","18 anos",90,"Avançado",11
+513,"Diego Gonçalves","28 anos",11,"Avançado",11
+514,"Victor Sá","28 anos",29,"Avançado",11
+515,"Luis Henrique","20 anos",99,"Avançado",11
+516,"Vinícius Lopes","23 anos",70,"Avançado",11
+517,"Gabriel Conceição","21 anos",32,"Avançado",11
+518,"Erison Danilo","23 anos",89,"Avançado",11
+519,"Luiz Fernando","26 anos",19,"Avançado",11
+520,"Rikelmi","21 anos",27,"Avançado",11
+521,"Ênio","21 anos",36,"Avançado",11
+522,"Matheus Cavichioli","36 anos",1,"Guarda Redes",10
+523,"Airton","28 anos",12,"Guarda Redes",10
+524,"Jori","26 anos",20,"Guarda Redes",10
+525,"Róbson","22 anos",23,"Guarda Redes",10
+526,"Jaílson","41 anos",42,"Guarda Redes",10
+527,"João Paulo","36 anos",16,"Defesa",10
+528,"Patric","33 anos",2,"Defesa",10
+529,"Raul Cáceres","31 anos",27,"Defesa",10
+530,"Iago Maidana","26 anos",3,"Defesa",10
+531,"Germán Conti","28 anos",4,"Defesa",10
+532,"Lucas Kal","26 anos",21,"Defesa",10
+533,"Danilo Avelar","33 anos",22,"Defesa",10
+534,"Júlio","19 anos",24,"Defesa",10
+535,"Éder Ferreira","27 anos",33,"Defesa",10
+536,"Luan Patrick","20 anos",34,"Defesa",10
+537,"Ricardo Silva","30 anos",45,"Defesa",10
+538,"Zé Vitor","21 anos",34,"Defesa",10
+539,"Marlon","28 anos",6,"Defesa",10
+540,"Carlos Junio","21 anos",32,"Defesa",10
+541,"Arthur","19 anos",25,"Defesa",10
+542,"Gustavo Marques","21 anos",14,"Defesa",10
+543,"Gabriel Gomes","23 anos",45,"Defesa",10
+544,"Índio Ramírez","24 anos",10,"Médio",10
+545,"Rodriguinho","19 anos",13,"Médio",10
+546,"Matheusinho","24 anos",40,"Médio",10
+547,"Zé Ricardo","26 anos",5,"Médio",10
+548,"Alê","32 anos",30,"Médio",10
+549,"Kevyn","20 anos",35,"Médio",10
+550,"Flávio","22 anos",39,"Médio",10
+551,"Juninho Valoura","36 anos",15,"Médio",10
+552,"Emmanuel Martínez","28 anos",80,"Médio",10
+553,"Gustavo","21 anos",18,"Médio",10
+554,"Martín Benítez","28 anos",28,"Médio",10
+555,"Mateus Henrique","20 anos",36,"Médio",10
+556,"Diogo","20 anos",41,"Médio",10
+557,"Juninho","35 anos",8,"Médio",10
+558,"Wellington Paulista","39 anos",7,"Avançado",10
+559,"Felipe Azevedo","35 anos",11,"Avançado",10
+560,"Henrique Almeida","31 anos",19,"Avançado",10
+561,"Carlos Alberto","20 anos",38,"Avançado",10
+562,"Adyson","17 anos",44,"Avançado",10
+563,"Rodolfo","30 anos",9,"Avançado",10
+564,"Kawê","20 anos",31,"Avançado",10
+565,"Paulinho Bóia","24 anos",47,"Avançado",10
+566,"Gonzalo Mastriani","29 anos",17,"Avançado",10
+567,"Aloísio","34 anos",50,"Avançado",10
+568,"Everaldo","28 anos",37,"Avançado",10
+569,"Yan Sasse","25 anos",17,"Avançado",10
+570,"Pedrinho","23 anos",29,"Avançado",10
+571,"Felipe Alves","34 anos",1,"Guarda Redes",9
+572,"Thiago Couto","23 anos",40,"Guarda Redes",9
+573,"Rokenedy","20 anos",41,"Guarda Redes",9
+574,"Young","20 anos",50,"Guarda Redes",9
+575,"Jandrei","29 anos",93,"Guarda Redes",9
+576,"Tiago Volpi","31 anos",1,"Guarda Redes",9
+577,"Diego Costa","23 anos",4,"Defesa",9
+578,"Reinaldo","33 anos",6,"Defesa",9
+579,"Léo","26 anos",16,"Defesa",9
+580,"Luizão","20 anos",32,"Defesa",9
+581,"Walce","23 anos",43,"Defesa",9
+582,"Igor Vinícius","25 anos",2,"Defesa",9
+583,"Rafinha","37 anos",13,"Defesa",9
+584,"João Moreira","18 anos",30,"Defesa",9
+585,"Robert Arboleda","31 anos",5,"Defesa",9
+586,"Miranda","38 anos",22,"Defesa",9
+587,"Lucas Beraldo","18 anos",35,"Defesa",9
+588,"Nahuel Ferraresi","24 anos",44,"Defesa",9
+589,"Welington","21 anos",34,"Defesa",9
+590,"Patryck","19 anos",46,"Defesa",9
+591,"Nathan Mendes","20 anos",45,"Defesa",9
+592,"Luan","23 anos",8,"Médio",9
+593,"Patrick","30 anos",88,"Médio",9
+594,"Gabriel Neves","25 anos",15,"Médio",9
+595,"Andrés Colorado","23 anos",20,"Médio",9
+596,"Rodrigo Nestor","22 anos",25,"Médio",9
+597,"Pablo Maia","20 anos",29,"Médio",9
+598,"Léo Silva","19 anos",38,"Médio",9
+599,"André Anderson","23 anos",28,"Médio",9
+600,"Rodriguinho","18 anos",47,"Médio",9
+601,"Giuliano Galoppo","23 anos",14,"Médio",9
+602,"Igor Gomes","23 anos",26,"Médio",9
+603,"Talles Costa","20 anos",37,"Médio",9
+604,"Gabriel Sara","23 anos",21,"Médio",9
+605,"Juan Santos","20 anos",31,"Avançado",9
+606,"Caio","18 anos",33,"Avançado",9
+607,"Gabriel Maioli","19 anos",39,"Avançado",9
+608,"Luiz Henrique","18 anos",42,"Avançado",9
+609,"Alisson","29 anos",12,"Avançado",9
+610,"Jonathan Calleri","29 anos",9,"Avançado",9
+611,"Luciano","29 anos",11,"Avançado",9
+612,"Éder Citadin","36 anos",23,"Avançado",9
+613,"Nikão","30 anos",10,"Avançado",9
+614,"Nahuel Bustos","24 anos",19,"Avançado",9
+615,"Marcos Guilherme","27 anos",95,"Avançado",9
+616,"Emiliano Rigoni","29 anos",7,"Avançado",9
+617,"Marquinhos","19 anos",17,"Avançado",9
+618,"Jonas Toró","23 anos",44,"Avançado",9
+619,"Marcelo Boeck","37 anos",1,"Guarda Redes",8
+620,"Kennedy","22 anos",12,"Guarda Redes",8
+621,"Fernando Miguel","37 anos",16,"Guarda Redes",8
+622,"Luan Polli","29 anos",25,"Guarda Redes",8
+623,"Max Walef","29 anos",23,"Guarda Redes",8
+624,"Tinga","29 anos",2,"Defesa",8
+625,"Anthony Landazuri","25 anos",3,"Defesa",8
+626,"Emanuel Brítez","30 anos",19,"Defesa",8
+627,"Vitor Ricardo","22 anos",40,"Defesa",8
+628,"Titi","34 anos",4,"Defesa",8
+629,"Marcelo Benevenuto","26 anos",5,"Defesa",8
+630,"Brayan Ceballos","21 anos",6,"Defesa",8
+631,"Alix Vinicius","23 anos",25,"Defesa",8
+632,"Habraão","21 anos",28,"Defesa",8
+633,"Juninho Capixaba","25 anos",29,"Defesa",8
+634,"Wagner Leonardo","23 anos",26,"Defesa",8
+635,"Caio Alexandre","23 anos",8,"Médio",8
+636,"Ronald","25 anos",14,"Médio",8
+637,"Felipe","28 anos",15,"Médio",8
+638,"Fabrício Baiano","30 anos",27,"Médio",8
+639,"Hércules","22 anos",35,"Médio",8
+640,"Lucas Sasha","32 anos",88,"Médio",8
+641,"Yago Pikachu","30 anos",22,"Médio",8
+642,"Lucas Lima","32 anos",13,"Médio",8
+643,"Matheus Vargas","26 anos",20,"Médio",8
+644,"Sammuel","20 anos",26,"Médio",8
+645,"Rómulo Otero","30 anos",80,"Médio",8
+646,"Zé Welison","27 anos",17,"Médio",8
+647,"Lucas Crispim","28 anos",10,"Médio",8
+648,"Matheus Jussa","26 anos",8,"Médio",8
+649,"Edinho","28 anos",18,"Médio",8
+650,"Thiaguinho","23 anos",27,"Médio",8
+651,"Thiago Galhardo","33 anos",91,"Avançado",8
+652,"Silvio Romero","34 anos",18,"Avançado",8
+653,"Robson","31 anos",7,"Avançado",8
+654,"Romarinho","28 anos",11,"Avançado",8
+655,"Moisés","26 anos",21,"Avançado",8
+656,"Pedro Rocha","28 anos",32,"Avançado",8
+657,"David","22 anos",33,"Avançado",8
+658,"Valentín Depietri","22 anos",34,"Avançado",8
+659,"Ángelo Henríquez","28 anos",19,"Avançado",8
+660,"Renato Kayzer","26 anos",79,"Avançado",8
+661,"Igor Torres","22 anos",77,"Avançado",8
+662,"Gabriel Delfim","20 anos",1,"Guarda Redes",7
+663,"Éverson","32 anos",22,"Guarda Redes",7
+664,"Matheus Mendes","23 anos",31,"Guarda Redes",7
+665,"Rafael","33 anos",32,"Guarda Redes",7
+666,"Guga","24 anos",2,"Defesa",7
+667,"Carlos Daniel","20 anos",21,"Defesa",7
+668,"Mariano","36 anos",25,"Defesa",7
+669,"Júnior Alonso","29 anos",3,"Defesa",7
+670,"Réver","37 anos",4,"Defesa",7
+671,"Igor Rabello","27 anos",16,"Defesa",7
+672,"Jemerson","30 anos",34,"Defesa",7
+673,"Nathan Silva","25 anos",40,"Defesa",7
+674,"Hiago","22 anos",51,"Defesa",7
+675,"Dodô","30 anos",6,"Defesa",7
+676,"Guilherme Arana","25 anos",13,"Defesa",7
+677,"Diego Godín","36 anos",14,"Defesa",7
+678,"Vitor Mendes","23 anos",34,"Defesa",7
+679,"Micael","22 anos",45,"Defesa",7
+680,"Yan Phillipe","18 anos",45,"Médio",7
+681,"Otávio","28 anos",5,"Médio",7
+682,"Jair","28 anos",8,"Médio",7
+683,"Allan","25 anos",29,"Médio",7
+684,"Nacho Fernández","32 anos",26,"Médio",7
+685,"Neto","20 anos",41,"Médio",7
+686,"Matías Zaracho","24 anos",15,"Médio",7
+687,"Calebe","22 anos",27,"Médio",7
+688,"Rubens","21 anos",44,"Médio",7
+689,"Tchê Tchê","30 anos",37,"Médio",7
+690,"Guilherme Castilho","23 anos",23,"Médio",7
+691,"Dylan Borrero","20 anos",30,"Médio",7
+692,"Felipe Felício","20 anos",28,"Avançado",7
+693,"Luiz Filipe","21 anos",43,"Avançado",7
+694,"Hulk","36 anos",7,"Avançado",7
+695,"Ademir","27 anos",19,"Avançado",7
+696,"Pedrinho","24 anos",37,"Avançado",7
+697,"Jefferson Savarino","26 anos",17,"Avançado",7
+698,"Alan Kardec","33 anos",14,"Avançado",7
+699,"Keno","33 anos",11,"Avançado",7
+700,"Cristian Pavón","26 anos",30,"Avançado",7
+701,"Eduardo Vargas","32 anos",10,"Avançado",7
+702,"Eduardo Sasha","30 anos",18,"Avançado",7
+703,"Sávio","18 anos",33,"Avançado",7
+704,"Echaporã","22 anos",48,"Avançado",7
+705,"Fábio Gomes","25 anos",9,"Avançado",7
+706,"Bento","23 anos",1,"Guarda Redes",6
+707,"Léo Linck","21 anos",23,"Guarda Redes",6
+708,"Mycael","18 anos",41,"Guarda Redes",6
+709,"Gabriel Pereira","20 anos",43,"Guarda Redes",6
+710,"Anderson","24 anos",98,"Guarda Redes",6
+711,"Santos","32 anos",1,"Guarda Redes",6
+712,"Leonardo Derik","17 anos",36,"Defesa",6
+713,"Khellven","21 anos",13,"Defesa",6
+714,"Ataíde","18 anos",21,"Defesa",6
+715,"Luis Orejuela","27 anos",24,"Defesa",6
+716,"Nicolás Hernández","24 anos",2,"Defesa",6
+717,"João Reginaldo","19 anos",3,"Defesa",6
+718,"Edu","22 anos",14,"Defesa",6
+719,"João Vitor","18 anos",32,"Defesa",6
+720,"Pedro Henrique","27 anos",34,"Defesa",6
+721,"Dourado","18 anos",38,"Defesa",6
+722,"Matheus Felipe","24 anos",42,"Defesa",6
+723,"Thiago Heleno","34 anos",44,"Defesa",6
+724,"João Vialle","20 anos",4,"Defesa",6
+725,"Lucas Halter","22 anos",33,"Defesa",6
+726,"Abner Vinícius","22 anos",16,"Defesa",6
+727,"Pedrinho","20 anos",48,"Defesa",6
+728,"Vinicius Kauê","19 anos",22,"Defesa",6
+729,"Marcinho","26 anos",5,"Defesa",6
+730,"Dedé","34 anos",3,"Defesa",6
+731,"Zé Ivaldo","25 anos",27,"Defesa",6
+732,"Lucas Fasson","21 anos",37,"Defesa",6
+733,"Pierre","20 anos",47,"Médio",6
+734,"Fernandinho","37 anos",5,"Médio",6
+735,"Matheus Fernandes","24 anos",6,"Médio",6
+736,"Hugo Moura","24 anos",17,"Médio",6
+737,"Juninho","19 anos",42,"Médio",6
+738,"Vitor Bueno","28 anos",8,"Médio",6
+739,"Léo Cittadini","28 anos",18,"Médio",6
+740,"Erick","25 anos",26,"Médio",6
+741,"Murilo","17 anos",51,"Médio",6
+742,"Kawan","20 anos",77,"Médio",6
+743,"Alex Santana","27 anos",80,"Médio",6
+744,"Christian","21 anos",88,"Médio",6
+745,"Bryan García","21 anos",30,"Médio",6
+746,"João Pedro","20 anos",36,"Médio",6
+747,"Pablo Siles","25 anos",25,"Médio",6
+748,"Rômulo","20 anos",35,"Avançado",6
+749,"Emersonn","18 anos",90,"Avançado",6
+750,"Jader","19 anos",15,"Avançado",6
+751,"John Mercado","20 anos",50,"Avançado",6
+752,"Marcelo Cirino","30 anos",7,"Avançado",6
+753,"Agustín Canobbio","24 anos",9,"Avançado",6
+754,"Marlos","34 anos",10,"Avançado",6
+755,"Vitor Roque","17 anos",39,"Avançado",6
+756,"Pablo","30 anos",92,"Avançado",6
+757,"Vitinho","23 anos",11,"Avançado",6
+758,"Tomás Cuello","22 anos",28,"Avançado",6
+759,"Julimar","21 anos",78,"Avançado",6
+760,"David Terans","28 anos",20,"Avançado",6
+761,"Carlos Eduardo","26 anos",11,"Avançado",6
+762,"Daniel Cruz","21 anos",49,"Avançado",6
+763,"Guilherme Bissoli","24 anos",17,"Avançado",6
+764,"Matheus Babi","25 anos",21,"Avançado",6
+765,"Pedro Rocha","28 anos",32,"Avançado",6
+766,"Diego Alves","37 anos",1,"Guarda Redes",5
+767,"Santos","32 anos",20,"Guarda Redes",5
+768,"Kauã Santos","19 anos",24,"Guarda Redes",5
+769,"Matheus Cunha","21 anos",25,"Guarda Redes",5
+770,"Hugo Souza","23 anos",45,"Guarda Redes",5
+771,"Bruno","20 anos",52,"Guarda Redes",5
+772,"João Fernando","21 anos",50,"Guarda Redes",5
+773,"Guillermo Varela","29 anos",2,"Defesa",5
+774,"Rodinei","30 anos",22,"Defesa",5
+775,"Matheuzinho","22 anos",34,"Defesa",5
+776,"Wesley","19 anos",43,"Defesa",5
+777,"Rodrigo Caio","29 anos",3,"Defesa",5
+778,"Léo Pereira","26 anos",4,"Defesa",5
+779,"Fabrício Bruno","26 anos",15,"Defesa",5
+780,"David Luiz","35 anos",23,"Defesa",5
+781,"Pablo","31 anos",30,"Defesa",5
+782,"Diegão","19 anos",51,"Defesa",5
+783,"Cleiton","19 anos",33,"Defesa",5
+784,"Iago","17 anos",51,"Defesa",5
+785,"Ayrton Lucas","25 anos",6,"Defesa",5
+786,"Filipe Luís","37 anos",16,"Defesa",5
+787,"José Welinton","18 anos",38,"Defesa",5
+788,"Renê","30 anos",6,"Defesa",5
+789,"Marcos Paulo","19 anos",47,"Defesa",5
+790,"Richard","19 anos",56,"Defesa",5
+791,"Patrick","22 anos",49,"Defesa",5
+792,"Mauricio Isla","34 anos",44,"Defesa",5
+793,"Gustavo Henrique","29 anos",2,"Defesa",5
+794,"Gabriel Noga","20 anos",41,"Defesa",5
+795,"Kayque Campos","19 anos",53,"Defesa",5
+796,"Ramon","21 anos",36,"Defesa",5
+797,"Igor Jesus","19 anos",48,"Médio",5
+798,"Erick Pulgar","28 anos",5,"Médio",5
+799,"Thiago Maia","25 anos",8,"Médio",5
+800,"Daniel Cabral","20 anos",28,"Médio",5
+801,"João Gomes","21 anos",35,"Médio",5
+802,"Éverton Ribeiro","33 anos",7,"Médio",5
+803,"De Arrascaeta","28 anos",14,"Médio",5
+804,"Victor Hugo","18 anos",29,"Médio",5
+805,"Kayke David","19 anos",39,"Médio",5
+806,"Diego","37 anos",10,"Médio",5
+807,"Arturo Vidal","35 anos",32,"Médio",5
+808,"Matheus França","18 anos",42,"Médio",5
+809,"Yuri","21 anos",38,"Médio",5
+810,"Willian Arão","30 anos",5,"Médio",5
+811,"Andreas Pereira","26 anos",18,"Médio",5
+812,"Werton","19 anos",19,"Avançado",5
+813,"Petterson","18 anos",37,"Avançado",5
+814,"Pedrinho","19 anos",50,"Avançado",5
+815,"Matheus Gonçalves","17 anos",40,"Avançado",5
+816,"André Luiz","20 anos",47,"Avançado",5
+817,"Marinho","32 anos",31,"Avançado",5
+818,"Gabriel Barbosa","26 anos",9,"Avançado",5
+819,"Pedro","25 anos",21,"Avançado",5
+820,"Mateusão","18 anos",46,"Avançado",5
+821,"Ryan Luka","19 anos",48,"Avançado",5
+822,"Everton","26 anos",11,"Avançado",5
+823,"Bruno Henrique","31 anos",27,"Avançado",5
+824,"Vitinho","29 anos",11,"Avançado",5
+825,"Lázaro","20 anos",13,"Avançado",5
+826,"Thiaguinho","21 anos",32,"Avançado",5
+827,"Cássio","35 anos",12,"Guarda Redes",4
+828,"Carlos Miguel","24 anos",22,"Guarda Redes",4
+829,"Matheus Donelli","20 anos",32,"Guarda Redes",4
+830,"Ivan","25 anos",1,"Guarda Redes",4
+831,"Rafael Ramos","27 anos",2,"Defesa",4
+832,"Léo Mana","18 anos",16,"Defesa",4
+833,"Fágner","33 anos",23,"Defesa",4
+834,"Robson","25 anos",3,"Defesa",4
+835,"Gil","35 anos",4,"Defesa",4
+836,"Belezi","19 anos",13,"Defesa",4
+837,"Bruno Méndez","23 anos",25,"Defesa",4
+838,"Robert Renan","19 anos",30,"Defesa",4
+839,"Fabián Balbuena","31 anos",31,"Defesa",4
+840,"Raúl Gustavo","23 anos",34,"Defesa",4
+841,"Lucas Piton","22 anos",6,"Defesa",4
+842,"Guilherme Biro","18 anos",14,"Defesa",4
+843,"Fábio Santos","37 anos",26,"Defesa",4
+844,"Bruno Melo","30 anos",27,"Defesa",4
+845,"João Pedro","26 anos",2,"Defesa",4
+846,"João Victor","24 anos",33,"Defesa",4
+847,"Reginaldo","21 anos",25,"Defesa",4
+848,"Breno Bidon","17 anos",36,"Médio",4
+849,"Wesley","17 anos",47,"Médio",4
+850,"Víctor Cantillo","29 anos",24,"Médio",4
+851,"Roni","23 anos",29,"Médio",4
+852,"Fausto Vera","22 anos",33,"Médio",4
+853,"Du Queiroz","22 anos",37,"Médio",4
+854,"Xavier","22 anos",39,"Médio",4
+855,"Giuliano","32 anos",11,"Médio",4
+856,"Matheus Araújo","20 anos",20,"Médio",4
+857,"Mateus Vital","24 anos",21,"Médio",4
+858,"Ruan Oliveira","22 anos",36,"Médio",4
+859,"Luan","29 anos",7,"Médio",4
+860,"Maycon","25 anos",5,"Médio",4
+861,"Renato Augusto","34 anos",8,"Médio",4
+862,"Paulinho","34 anos",15,"Médio",4
+863,"Ramiro","29 anos",17,"Médio",4
+864,"Gabriel","30 anos",5,"Médio",4
+865,"Gustavo Mantuan","21 anos",31,"Médio",4
+866,"Gabriel Pereira","21 anos",38,"Médio",4
+867,"Felipe Augusto","18 anos",41,"Avançado",4
+868,"Adson","22 anos",28,"Avançado",4
+869,"Yuri Alberto","21 anos",9,"Avançado",4
+870,"Júnior Moraes","35 anos",18,"Avançado",4
+871,"Arthur","19 anos",38,"Avançado",4
+872,"Róger Guedes","26 anos",10,"Avançado",4
+873,"Gustavo Mosquito","25 anos",19,"Avançado",4
+874,"Giovane","18 anos",42,"Avançado",4
+875,"Léo Natel","25 anos",38,"Avançado",4
+876,"Jô","35 anos",77,"Avançado",4
+877,"Willian","34 anos",10,"Avançado",4
+878,"Marcos Felipe","26 anos",1,"Guarda Redes",3
+879,"Fábio","42 anos",12,"Guarda Redes",3
+880,"Pedro Rangel","22 anos",22,"Guarda Redes",3
+881,"Muriel Becker","35 anos",27,"Guarda Redes",3
+882,"Danilo Barcelos","31 anos",18,"Defesa",3
+883,"Samuel Xavier","32 anos",2,"Defesa",3
+884,"Calegari","20 anos",31,"Defesa",3
+885,"Jhonny","20 anos",43,"Defesa",3
+886,"Matheus Ferraz","37 anos",3,"Defesa",3
+887,"Manoel","32 anos",26,"Defesa",3
+888,"David Duarte","27 anos",29,"Defesa",3
+889,"Nino","25 anos",33,"Defesa",3
+890,"Luan","21 anos",40,"Defesa",3
+891,"Cipriano","20 anos",41,"Defesa",3
+892,"David Braz","35 anos",44,"Defesa",3
+893,"Davi","20 anos",46,"Defesa",3
+894,"Mario Pineida","30 anos",6,"Defesa",3
+895,"Cristiano Silva","29 anos",15,"Defesa",3
+896,"Marcos Pedro","20 anos",42,"Defesa",3
+897,"Luccas Claro","31 anos",4,"Defesa",3
+898,"Marlon","25 anos",30,"Defesa",3
+899,"Wellington","31 anos",5,"Médio",3
+900,"André","21 anos",7,"Médio",3
+901,"Martinelli","21 anos",38,"Médio",3
+902,"Felipe Melo","39 anos",52,"Médio",3
+903,"PH Ganso","33 anos",10,"Médio",3
+904,"Edinho","21 anos",28,"Médio",3
+905,"Nathan","26 anos",13,"Médio",3
+906,"Yago Felipe","27 anos",20,"Médio",3
+907,"Alexsander","19 anos",35,"Médio",3
+908,"Biel","21 anos",39,"Médio",3
+909,"Gustavo Nonato","24 anos",8,"Médio",3
+910,"Alexandre Jesus","21 anos",19,"Avançado",3
+911,"John Kennedy","20 anos",23,"Avançado",3
+912,"Marcelinho","22 anos",32,"Avançado",3
+913,"Matheus Martins","19 anos",37,"Avançado",3
+914,"Gabryel Martins","20 anos",25,"Avançado",3
+915,"Cauã Santos","21 anos",36,"Avançado",3
+916,"Yago","21 anos",45,"Avançado",3
+917,"Michel Araújo","26 anos",11,"Avançado",3
+918,"Fred","39 anos",9,"Avançado",3
+919,"Germán Cano","34 anos",14,"Avançado",3
+920,"Willian","36 anos",17,"Avançado",3
+921,"Alan","33 anos",18,"Avançado",3
+922,"Marrony","23 anos",16,"Avançado",3
+923,"Jhon Arias","25 anos",21,"Avançado",3
+924,"Caio Paulista","24 anos",70,"Avançado",3
+925,"Luiz Henrique","21 anos",11,"Avançado",3
+926,"Daniel","28 anos",1,"Guarda Redes",2
+927,"Keiller","26 anos",12,"Guarda Redes",2
+928,"Anthoni","20 anos",24,"Guarda Redes",2
+929,"Emerson Júnior","22 anos",52,"Guarda Redes",2
+930,"Fabricio Bustos","26 anos",16,"Defesa",2
+931,"Weverton","23 anos",22,"Defesa",2
+932,"Gabriel Mercado","35 anos",25,"Defesa",2
+933,"Kaique Rocha","21 anos",3,"Defesa",2
+934,"Rodrigo Moledo","35 anos",4,"Defesa",2
+935,"Igor Gomes","21 anos",21,"Defesa",2
+936,"Roberto","24 anos",40,"Defesa",2
+937,"Vitão","22 anos",44,"Defesa",2
+938,"Víctor Cuesta","34 anos",15,"Defesa",2
+939,"Renê","30 anos",33,"Defesa",2
+940,"Thauan Lara","18 anos",36,"Defesa",2
+941,"Heitor","22 anos",2,"Defesa",2
+942,"Lucas Mazetti","21 anos",38,"Defesa",2
+943,"Bruno Méndez","23 anos",22,"Defesa",2
+944,"Tiago Barbosa","21 anos",40,"Defesa",2
+945,"Paulo Victor","21 anos",6,"Defesa",2
+946,"Moisés","27 anos",20,"Defesa",2
+947,"Matheus Dias","20 anos",41,"Médio",2
+948,"Gabriel","30 anos",23,"Médio",2
+949,"Bruno Gomes","21 anos",32,"Médio",2
+950,"Alan Patrick","31 anos",10,"Médio",2
+951,"Estevão","20 anos",26,"Médio",2
+952,"Maurício","21 anos",27,"Médio",2
+953,"Boschilia","26 anos",21,"Médio",2
+954,"Liziero","24 anos",5,"Médio",2
+955,"Edenílson","32 anos",8,"Médio",2
+956,"Johnny","21 anos",30,"Médio",2
+957,"Lucas Ramos","21 anos",37,"Médio",2
+958,"Andrés D’Alessandro","41 anos",10,"Médio",2
+959,"Rodrigo Dourado","28 anos",13,"Médio",2
+960,"Rodrigo Lindoso","33 anos",19,"Médio",2
+961,"Wanderson","28 anos",11,"Avançado",2
+962,"Pedro Henrique","32 anos",28,"Avançado",2
+963,"Alemão","24 anos",35,"Avançado",2
+964,"Braian Romero","31 anos",9,"Avançado",2
+965,"Mikael","23 anos",32,"Avançado",2
+966,"Yuri Alberto","21 anos",11,"Avançado",2
+967,"Taison","34 anos",7,"Avançado",2
+968,"Carlos de Peña","30 anos",14,"Avançado",2
+969,"David","27 anos",17,"Avançado",2
+970,"Gustavo Maia","21 anos",77,"Avançado",2
+971,"Matheus Cadorini","20 anos",18,"Avançado",2
+972,"Carlos Palacios","22 anos",14,"Avançado",2
+973,"Caio Vidal","22 anos",47,"Avançado",2
+974,"Wesley Moraes","25 anos",9,"Avançado",2
+975,"Nicolas","21 anos",39,"Avançado",2
+976,"Vinicius","28 anos",1,"Guarda Redes",1
+977,"Weverton","34 anos",21,"Guarda Redes",1
+978,"Kaique","19 anos",31,"Guarda Redes",1
+979,"Marcelo Lomba","35 anos",42,"Guarda Redes",1
+980,"Mateus Oliveira","20 anos",31,"Guarda Redes",1
+981,"Marcos Rocha","33 anos",2,"Defesa",1
+982,"Mayke","30 anos",12,"Defesa",1
+983,"Garcia","20 anos",32,"Defesa",1
+984,"Benjamín Kuscevic","26 anos",4,"Defesa",1
+985,"Luan","29 anos",13,"Defesa",1
+986,"Gustavo Gómez","29 anos",15,"Defesa",1
+987,"Murilo","25 anos",26,"Defesa",1
+988,"Kaiky Naves","20 anos",33,"Defesa",1
+989,"Jorge","26 anos",6,"Defesa",1
+990,"Joaquín Piquerez","24 anos",22,"Defesa",1
+991,"Vanderlan","20 anos",36,"Defesa",1
+992,"Renan Victor","20 anos",3,"Defesa",1
+993,"Lucas Freitas","21 anos",34,"Defesa",1
+994,"Eduard Atuesta","25 anos",20,"Médio",1
+995,"Danilo","21 anos",28,"Médio",1
+996,"Jailson","27 anos",30,"Médio",1
+997,"Fabinho","20 anos",35,"Médio",1
+998,"Raphael Veiga","27 anos",23,"Médio",1
+999,"Zé Rafael","29 anos",8,"Médio",1
+1000,"Gabriel Menino","22 anos",25,"Médio",1
+1001,"Patrick de Paula","23 anos",5,"Médio",1
+1002,"Gustavo Scarpa","28 anos",14,"Médio",1
+1003,"Pedro Bicalho","21 anos",38,"Médio",1
+1004,"Miguel Merentiel","26 anos",9,"Avançado",1
+1005,"Dudu","30 anos",7,"Avançado",1
+1006,"Giovani","18 anos",17,"Avançado",1
+1007,"Bruno Tabata","25 anos",27,"Avançado",1
+1008,"Endrick","16 anos",16,"Avançado",1
+1009,"José Manuel López","21 anos",18,"Avançado",1
+1010,"Rafael Navarro","22 anos",29,"Avançado",1
+1011,"Rony","27 anos",10,"Avançado",1
+1012,"Wesley","23 anos",11,"Avançado",1
+1013,"Breno Lopes","26 anos",19,"Avançado",1
+1014,"Gabriel Veron","20 anos",27,"Avançado",1
+1015,"Deyverson","31 anos",16,"Avançado",1
+1016,"Gabriel Silva","20 anos",49,"Avançado",1
+1017,"Luan Silva","23 anos",9,"Avançado",1
