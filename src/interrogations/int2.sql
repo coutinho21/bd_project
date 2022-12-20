@@ -1,3 +1,7 @@
+.mode columns
+.headers on
+.nullvalue NULL
+
 SELECT NOME, CLASSIFICACAO
 FROM EQUIPA 
 ORDER BY CLASSIFICACAO
