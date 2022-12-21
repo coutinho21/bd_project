@@ -1,0 +1,9 @@
+.mode columns
+.headers on
+.nullvalue NULL
+
+SELECT EQUIPA.NOME AS "Nome", AVG(EQUIPA.GOLOSMARCADOS) AS "Média de Golos", EQUIPA.CLASSIFICACAO AS "Classificação"
+FROM EQUIPA
+GROUP BY EQUIPA.NOME
+ORDER BY 2 DESC
+LIMIT 5;
