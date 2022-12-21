@@ -1,6 +1,7 @@
 .mode columns
 .header on
 .nullvalue NULL
+BEGIN TRANSACTION
 
 PRAGMA foreign_keys = ON;
 
