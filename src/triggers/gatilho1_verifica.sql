@@ -1,16 +1,8 @@
 .mode columns
 .header on
 .nullvalue NULL
-BEGIN TRANSACTION
 
 PRAGMA foreign_keys = ON;
-
-.print ""
-.print "Estado inicial:"
-.print ""
-
-SELECT * FROM JOGADOR WHERE IDJOGADOR = 2000;
-
 
 .print ""
 .print "Tentando adicionar jogador com número válido..."
