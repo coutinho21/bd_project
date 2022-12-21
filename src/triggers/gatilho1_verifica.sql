@@ -6,32 +6,30 @@ BEGIN TRANSACTION
 PRAGMA foreign_keys = ON;
 
 .print ""
-.print "Initial state:"
+.print "Estado inicial:"
 .print ""
 
 SELECT * FROM JOGADOR WHERE IDJOGADOR = 2000;
 
 
 .print ""
-.print "Trying to insert Player with valid number..."
+.print "Tentando adicionar jogador com número válido..."
 .print ""
 
-INSERT INTO JOGADOR VALUES (2000, "Jacinto Pinto", "40 anos", 4, "Defesa", 3);
+INSERT INTO JOGADOR VALUES (2000, "André Camalãeo", "40 anos", 4, "Defesa", 3);
 
 .print ""
-.print "Inserted with sucess:"
+.print "Jogador adicionado:"
 .print ""
 
 SELECT * FROM JOGADOR WHERE IDJOGADOR = 2000;
 
 .print ""
-.print "Trying to insert Player with invalid number..."
+.print "Tentando adicionar jogador com número inválido..."
 .print ""
 
-INSERT INTO JOGADOR VALUES (2001, "Seixo Paulo", "20 anos", 300, "Avançado", 5);
+INSERT INTO JOGADOR VALUES (2001, "Paulo Seixo", "20 anos", 300, "Avançado", 5);
 
 .print ""
-.print "Not inserted due to trigger"
+.print "Não adicionado."
 .print ""
-
-SELECT * FROM JOGADOR WHERE IDJOGADOR = 2001;

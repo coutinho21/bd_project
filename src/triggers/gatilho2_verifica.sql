@@ -40,5 +40,5 @@ SELECT * FROM JOGADOR WHERE IDJOGADOR = 1100;
 .print "Criando um novo golo..."
 .print ""
 
-INSERT INTO GOLO VALUES (10, 93, "Jafo Dias marcou o seu primeiro golo na época", 1100, 200);
+INSERT INTO GOLO VALUES (10, 93, "Rodrigo Dias marcou o seu primeiro golo na época", 1100, 200);
 
